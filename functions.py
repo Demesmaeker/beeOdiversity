@@ -1,4 +1,5 @@
 import pandas as pd
+
 surfaces_df = pd.read_excel('data/absSurfs.xlsx', engine='openpyxl')
 
 def qtt_pesticides(row, *args):
@@ -8,14 +9,12 @@ def qtt_pesticides(row, *args):
             total += row[arg]
     return total
 
-
 def nb_pesticides(row, *args):
     total = 0
     for arg in args:
         if row[arg] > 0:
             total += 1
     return total
-
 
 def get_surface(row):
     site = row['Site']
