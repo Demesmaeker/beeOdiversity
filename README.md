@@ -12,11 +12,6 @@ We were given different datasets :
 - MRL for heavy metal
 
 
-## Map
-
-![Map](https://github.com/Demesmaeker/beeOdiversit/blob/main/preview/Plan.svg)
-
-
 ## Who
 This is a group project for the hackaton BeeOdiversity, the members are :
 - [Thomas De Cleen](https://github.com/ThomasDeCleen) (Accenture)
@@ -64,9 +59,11 @@ All the work done was made during the BeeOImpact Hackaton of 2021.
 
 #### Exploring the data
 - Example : Classification of the pesticides
+
 ![Classification Pesticides](https://github.com/Demesmaeker/beeOdiversity/blob/main/preview/classe_pesti.png)
 
 - Exemple : Dataset of distances from the beehives
+
 ![Distances](https://github.com/Demesmaeker/beeOdiversity/blob/main/preview/distances.png)
 
 
@@ -76,12 +73,15 @@ All the work done was made during the BeeOImpact Hackaton of 2021.
 - Example for the heavy metals :
 - 0 -> level under MRL (or no mercury)
 - 1 -> level above MRL (or has mercury)
+
 ![Heavy metals](https://github.com/Demesmaeker/beeOdiversity/blob/main/preview/group_hm.png)
 
 - Example for the pesticides :
+
 ![Pesticides](https://github.com/Demesmaeker/beeOdiversity/blob/main/preview/group_pesti.png)
 
 - Getting a value for each zone influenced by area and the distance :
+
 ![Area/distance](https://github.com/Demesmaeker/beeOdiversity/blob/main/preview/area_distance.png)
 
 
