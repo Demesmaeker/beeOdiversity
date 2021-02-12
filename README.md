@@ -64,30 +64,30 @@ All the work done was made during the BeeOImpact Hackaton of 2021.
 
 #### Exploring the data
 - Example : Classification of the pesticides
-![Classification Pesticides](https://github.com/Demesmaeker/beeOdiversit/blob/main/preview/classe_pesti.svg)
+![Classification Pesticides](https://github.com/Demesmaeker/beeOdiversity/blob/main/preview/classe_pesti.svg)
 
 - Exemple : Dataset of distances from the beehives
-![Distances](https://github.com/Demesmaeker/beeOdiversit/blob/main/preview/distances.svg)
+![Distances](https://github.com/Demesmaeker/beeOdiversity/blob/main/preview/distances.svg)
 
 
 #### Modifying the data to get interesting columns
 
 
 - Example for the heavy metals :
-0 -> level under MRL (or no mercury)
-1 -> level above MRL (or has mercury)
-![Heavy metals](https://github.com/Demesmaeker/beeOdiversit/blob/main/preview/group_hm.svg)
+- 0 -> level under MRL (or no mercury)
+- 1 -> level above MRL (or has mercury)
+![Heavy metals](https://github.com/Demesmaeker/beeOdiversity/blob/main/preview/group_hm.svg)
 
 - Example for the pesticides :
-![Pesticides](https://github.com/Demesmaeker/beeOdiversit/blob/main/preview/group_pesti.svg)
+![Pesticides](https://github.com/Demesmaeker/beeOdiversity/blob/main/preview/group_pesti.svg)
 
 - Getting a value for each zone influenced by area and the distance :
-![Area/distance](https://github.com/Demesmaeker/beeOdiversit/blob/main/preview/area_distance.svg)
+![Area/distance](https://github.com/Demesmaeker/beeOdiversity/blob/main/preview/area_distance.png)
 
 
 #### Merging the datasest
 
-![One big final Dataset](https://github.com/Demesmaeker/beeOdiversit/blob/main/preview/merged_all.svg)
+![One big final Dataset](https://github.com/Demesmaeker/beeOdiversity/blob/main/preview/merged_all.svg)
 
 
 ### Modeling
